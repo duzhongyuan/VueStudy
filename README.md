@@ -20,3 +20,10 @@
 
 # jshint校验忽略文件的方法
 * 在项目的根目录下创建一个 ** .jshintignore ** ，将要忽略的文件路径写到该文件中。可以是带路径的文件名、路径名、匹配规则。如 * scr/App.vue * 。
+
+# 项目使用插件更新
+* 例如安装vue-router并更新package.json,使用命令：npm install vue-router --save
+
+
+
+
